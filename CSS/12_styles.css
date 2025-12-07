@@ -1,0 +1,16 @@
+p{
+    text-decoration: #f0f dotted underline;
+}
+h1{
+    text-decoration: overline;
+    text-decoration-style: wavy;
+    text-decoration-color: red;
+}
+h2{
+    text-decoration: line-through;
+    text-decoration-color: aquamarine;
+}
+a{
+    text-decoration: none;
+    color: green;
+}
