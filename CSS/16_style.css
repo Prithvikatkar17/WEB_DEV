@@ -11,3 +11,12 @@ h1{
 h3{
     color: blueviolet;
 }
+
+#login{
+    color: cadetblue;
+}
+
+#signup{
+    background-color: aquamarine;
+    color: black;
+}
