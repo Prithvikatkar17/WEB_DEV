@@ -1,0 +1,31 @@
+.a{
+    background-color: blue;
+    color: white;
+}
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+
+h1{
+    color: brown;
+}
+
+h3{
+    color: blueviolet;
+}
+
+#login{
+    color: cadetblue;
+}
+
+#signup{
+    background-color: aquamarine;
+    color: black;
+}
+
+div>input{
+    border: 2px solid gray;
+    background-color: lightgray;
+}
